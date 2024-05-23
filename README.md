@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+## My name is Nthumo Mutinda
 
 ## I’m currently learning Django
 <!--🌱 
