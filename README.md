@@ -7,16 +7,16 @@ I'm Nthumo Mutinda.
 [![Nthumo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nthumo&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-##Languages:
+## Languages:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,cpp,py)](https://skillicons.dev)
 
-##Skills:
+## Skills:
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,github,git)](https://skillicons.dev)
 
-##Intergrated Development environments:
+## Intergrated Development environments:
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,vim)](https://skillicons.dev)
 
-##Storage:
+## Storage:
 [![My Skills](https://skillicons.dev/icons?i=redis,postgres)](https://skillicons.dev)
 
 
