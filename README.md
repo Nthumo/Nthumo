@@ -3,7 +3,7 @@
 My name is Nthumo Mutinda
 
 <img
-  src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg"
+  src="https://github.com/Nthumo/Nthumo/blob/main/images/stat.svg"
   alt="Alternative Text"
 />
 Example:
