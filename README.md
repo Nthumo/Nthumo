@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-## My name is Nthumo Mutinda
+My name is Nthumo Mutinda
 
-## I’m currently learning Django
 <!--🌱 
 **Nthumo/Nthumo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
