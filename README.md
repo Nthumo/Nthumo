@@ -2,8 +2,12 @@
 
 My name is Nthumo Mutinda
 
-## LANGUAGES:
+# LANGUAGES:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,cpp,py)](https://skillicons.dev)
+
+# SKILLS:
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,github,git,)](https://skillicons.dev)
+
 <!--🌱 
 **Nthumo/Nthumo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
