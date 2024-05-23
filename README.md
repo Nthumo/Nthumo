@@ -1,23 +1,25 @@
 ### Hi there 👋
 
-   I'm Nthumo Mutinda.
-
-
-Languages:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,cpp,py)](https://skillicons.dev)
-
-Skills:
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,github,git)](https://skillicons.dev)
-
-Intergrated Development environments:
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,vim)](https://skillicons.dev)
-
-Storage:
-[![My Skills](https://skillicons.dev/icons?i=redis,postgres)](https://skillicons.dev)
+I'm Nthumo Mutinda.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Nthumo&theme=dark)](https://git.io/streak-stats)
 
 [![Nthumo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nthumo&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+##Languages:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,cpp,py)](https://skillicons.dev)
+
+##Skills:
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,github,git)](https://skillicons.dev)
+
+##Intergrated Development environments:
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,vim)](https://skillicons.dev)
+
+##Storage:
+[![My Skills](https://skillicons.dev/icons?i=redis,postgres)](https://skillicons.dev)
+
+
 
 <!--🌱 
 **Nthumo/Nthumo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
