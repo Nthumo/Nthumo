@@ -2,10 +2,10 @@
 
 My name is Nthumo Mutinda
 
-# LANGUAGES:
+# Languages:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,cpp,py)](https://skillicons.dev)
 
-# SKILLS:
+# Skills:
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,github,git,)](https://skillicons.dev)
 
 <!--🌱 
