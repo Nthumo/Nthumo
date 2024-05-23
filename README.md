@@ -3,16 +3,16 @@
  I'm Nthumo Mutinda.
 
 
-**Languages:**
+**Languages:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,cpp,py)](https://skillicons.dev)
 
-**Skills:**
+**Skills:
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,github,git)](https://skillicons.dev)
 
-**Intergrated Development environments:**
+**Intergrated Development environments:
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,vim)](https://skillicons.dev)
 
-**Storage:**
+**Storage:
 [![My Skills](https://skillicons.dev/icons?i=redis,postgres)](https://skillicons.dev)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Nthumo&theme=dark)](https://git.io/streak-stats)
