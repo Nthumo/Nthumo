@@ -11,7 +11,7 @@ I'm Nthumo Mutinda.
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,cpp,py)](https://skillicons.dev)
 
 ### Skills:
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,github,git,django,githubactions,linux)](https://skillicons.dev)
 
 ### Intergrated Development environments:
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,vim)](https://skillicons.dev)
