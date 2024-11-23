@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I'm Nthumo Mutinda.
+Nthumo Mutinda.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Nthumo)](https://git.io/streak-stats)
 
